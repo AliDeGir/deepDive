@@ -2,6 +2,9 @@
 
 GitHub Demo
 
+## git clone [link to repo]
+Clones the repo to local git
+
 ## git add [use (.) or name of the file that has been updated]
 Starts tracking changes of chosen files
 
