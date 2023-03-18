@@ -1,12 +1,15 @@
 # Demo
 
-Some description!
+GitHub Demo
 
-## Subheader
+## git status
+Gives the status og the changes
 
-Helloooo
+## git branch
+Displays branch(es)
 
-## Local Development
+## git checkout [name of the branch]
+Go to named branch
 
-1. Open this
-2. Open that
+## git checkout -b [name of the branch]
+Creates a new branch and goes into that directory
