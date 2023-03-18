@@ -33,3 +33,6 @@ Pulls the merged main to local repo
 
 ## git branch -d [name of the branch]
 Deletes the named branch
+
+## git commit -am "message"
+Both add and commit but works only on modified files, not new files
