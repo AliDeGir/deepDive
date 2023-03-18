@@ -2,7 +2,7 @@
 
 GitHub Demo
 
-## git add [use (.) og name of the file that has been updated]
+## git add [use (.) or name of the file that has been updated]
 Starts tracking changes of chosen files
 
 ## git commit -m ["description of change"]
