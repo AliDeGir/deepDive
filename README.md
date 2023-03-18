@@ -19,3 +19,9 @@ Go to named branch
 
 ## git checkout -b [name of the branch]
 Creates a new branch and goes into that directory
+
+## git diff [name of the branch] (in main branch)
+Shows the diff of the changes with other branches
+
+## git merge [name of the branch] (in main branch)
+Merge the branch with main
