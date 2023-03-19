@@ -26,13 +26,16 @@ Creates a new branch and goes into that directory
 ## git diff [name of the branch] (in main branch)
 Shows the diff of the changes with other branches
 
+## git push (if first time [])
+Push the local to web
+
 ## git merge [name of the branch] (in main branch)
 Merge the branch with main
 
 (Have to manually merge on GitHub first)
 
 ## git pull
-Pulls the merged main to local repo
+Pulls the merged main to local repo again
 
 ## git branch -d [name of the branch]
 Deletes the named branch
