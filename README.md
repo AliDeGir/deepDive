@@ -26,7 +26,7 @@ Creates a new branch and goes into that directory
 ## git diff [name of the branch] (in main branch)
 Shows the diff of the changes with other branches
 
-## git push (if first time [])
+## git push (if first time) -u origin [name of branch]
 Push the local to web
 
 ## git merge [name of the branch] (in main branch)
